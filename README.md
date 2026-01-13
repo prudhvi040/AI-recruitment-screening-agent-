@@ -11,9 +11,9 @@ The AI Recruitment Screening Agent streamlines this process by analyzing resumes
 
 Recruiters and hiring managers often spend hours reviewing resumes, comparing candidates, and identifying the best fit for a role. This process is:
 
--Time-consuming
--Prone to human bias and inconsistency
--Difficult to scale when applicant volume is high
+Time-consuming,
+Prone to human bias and inconsistency,
+Difficult to scale when applicant volume is high,
 
 This project was built to show how agentic AI workflows can automate early-stage recruitment screening while keeping the process structured, transparent, and explainable.
 
@@ -23,13 +23,13 @@ This project was built to show how agentic AI workflows can automate early-stage
 
 The AI Recruitment Screening Agent:
 
--Accepts a job description and multiple resumes
--Extracts key job requirements (skills, tools, experience)
--Evaluates each candidate against the role
--Assigns a match score (out of 100)
--Identifies strengths, weaknesses, and gaps
--Ranks candidates from best to least suitable
--Recommends the top candidate with a clear justification
+Accepts a job description and multiple resumes,
+Extracts key job requirements (skills, tools, experience),
+Evaluates each candidate against the role,
+Assigns a match score (out of 100),
+Identifies strengths, weaknesses, and gaps,
+Ranks candidates from best to least suitable,
+Recommends the top candidate with a clear justification
 
 The output is delivered in a clean, structured format suitable for recruiters and hiring teams.
 
@@ -43,7 +43,7 @@ User submits:
             Job description,
             Resume 1,
             Resume 2,
-            Resume 3,
+            Resume 3
 
 2.AI Screening Step
 
@@ -79,10 +79,10 @@ Generates:
 📸 Demo & Screenshots
 
 This repository includes:
-                         Workflow design screenshots
-                         Form trigger setup
-                         Example AI run outputs
-                         LinkedIn carousel explaining how the agent works
+                         Workflow design screenshots,
+                         Form trigger setup,
+                         Example AI run outputs,
+                         LinkedIn carousel explaining how the agent works,
 
 These visuals showcase both the technical workflow and the product-level design thinking behind the agent.
 
@@ -90,18 +90,18 @@ These visuals showcase both the technical workflow and the product-level design 
 
 🎯 Use Cases
 
--Recruitment agencies
--HR teams
--Startup founders
--Hiring managers
--Career platforms
--ATS workflow automation
+Recruitment agencies,
+HR teams,
+Startup founders,
+Hiring managers,
+Career platforms,
+ATS workflow automation
 
 The agent can be adapted for:
--Technical hiring
--Non-technical roles
--Campus recruitment
--High-volume screening
+Technical hiring,
+Non-technical roles,
+Campus recruitment,
+High-volume screening
 
 
 
