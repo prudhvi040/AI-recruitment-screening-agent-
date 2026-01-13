@@ -40,26 +40,26 @@ The output is delivered in a clean, structured format suitable for recruiters an
 1.Form Trigger
 
 User submits:
-Job description
-Resume 1
-Resume 2
-Resume 3
+            Job description,
+            Resume 1,
+            Resume 2,
+            Resume 3,
 
 2.AI Screening Step
 
 The AI analyzes:
-               Role requirements
+               Role requirements,
                Candidate skills and experience
 
 Generates:
-         Job summary
-        Candidate evaluations
-        Match scores
-        Final ranking
-        Hiring recommendation
+         Job summary,
+         Candidate evaluations,
+         Match scores,
+         Final ranking,
+         Hiring recommendation,
 
 3.Result Output:
-              Structured recruiter-style screening report
+              Structured recruiter-style screening report,
               Ready for decision-making or further interview shortlisting
 
 
