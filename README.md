@@ -13,7 +13,7 @@ Recruiters and hiring managers often spend hours reviewing resumes, comparing ca
 
 Time-consuming,
 Prone to human bias and inconsistency,
-Difficult to scale when applicant volume is high,
+Difficult to scale when applicant volume is high
 
 This project was built to show how agentic AI workflows can automate early-stage recruitment screening while keeping the process structured, transparent, and explainable.
 
@@ -107,23 +107,23 @@ High-volume screening
 
 🧠 What I Learned from This Project
 
--Designing agentic workflows
--Breaking real business problems into automatable steps
--Prompt engineering for structured outputs
--Building AI-first systems without traditional code
--Thinking like a product + AI engineer-
--Translating vague hiring needs into clear evaluation logic
+Designing agentic workflows,
+Breaking real business problems into automatable steps,
+Prompt engineering for structured outputs,
+Building AI-first systems without traditional code,
+Thinking like a product + AI engineer,
+Translating vague hiring needs into clear evaluation logic
 
 
 
 🔮 Future Improvements
 
--Resume parsing from PDF files
--Integration with applicant tracking systems
--Bias and fairness checking
--Automated recruiter email summaries
--Candidate database & dashboard
--Interview question generation
+Resume parsing from PDF files,
+Integration with applicant tracking systems,
+Bias and fairness checking,
+Automated recruiter email summaries,
+Candidate database & dashboard,
+Interview question generation
 
 
 
