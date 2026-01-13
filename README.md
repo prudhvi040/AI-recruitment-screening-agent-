@@ -40,10 +40,10 @@ The output is delivered in a clean, structured format suitable for recruiters an
 1.Form Trigger
 
 User submits:
-            Job description
-            Resume 1
-            Resume 2
-            Resume 3
+Job description
+Resume 1
+Resume 2
+Resume 3
 
 2.AI Screening Step
 
